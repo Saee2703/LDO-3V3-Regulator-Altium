@@ -5,12 +5,12 @@ A compact SMD 3.3V low dropout voltage regulator designed and verified in Altium
 This project marks my first complete PCB design in Altium Designer — demonstrating SMD component placement, professional EDA workflow and Gerber file generation in an industry standard tool.
 
 # Circuit Specifications
-Component         Value                      Purpose
-* U1              MIC5317-3.3YM5-TR          3.3V LDO voltage regulator
-* J1              SM02B-GHS-TB(LF)(SN)       5V power input connector
-* J2              SM02B-GHS-TB(LF)(SN)       3.3V regulated output connector
-* C1              1µF                        Input decoupling capacitor
-* C2              1µF                        Output decoupling capacitor
+Component                  Value                            Purpose
+* U1                       MIC5317-3.3YM5-TR                3.3V LDO voltage regulator
+* J1                       SM02B-GHS-TB(LF)(SN)             5V power input connector
+* J2                       SM02B-GHS-TB(LF)(SN)             3.3V regulated output connector
+* C1                       1µF                              Input decoupling capacitor
+* C2                       1µF                              Output decoupling capacitor
 
 # Electrical Performance
 Parameter                   Value 
