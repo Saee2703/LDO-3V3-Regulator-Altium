@@ -37,5 +37,8 @@ Output capacitor            1µF
 * 3D PCB visualisation confirming correct component placement
 
 <img width="1439" height="769" alt="Image" src="https://github.com/user-attachments/assets/9dc08e55-44c4-4f9c-8b3d-0b906a37f44b" /> 
+<img width="1449" height="839" alt="Image" src="https://github.com/user-attachments/assets/05d6933f-bdef-4213-848c-ef26d8acff69" />
+<img width="1464" height="731" alt="Image" src="https://github.com/user-attachments/assets/bd76a251-3e81-4556-87f7-aeac3b6209c8" />
+<img width="1467" height="841" alt="Image" src="https://github.com/user-attachments/assets/cac7338a-e8ba-4686-9f34-402ed32410b3" />
 
 
